@@ -1,0 +1,34 @@
+<!-- Modal MIS CURSOS -->
+        <!-- <div class="modal fade" id="misCursosModal" tabindex="-1" aria-labelledby="misCursosModalLabel">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header" style="background-color: aliceblue;">
+                        <h2 class="modal-title w-100 text-center" style="color: rgb(19, 83, 106);">Bienvenido <span>Nelson</span></h2>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="subtitulo">
+                       <p>¡Gracias por tu compra! Espéramos que disfrutes de nuestros cursos.<span style="font-size: 20px;">😊</span></p> 
+                    </div>
+                    <hr>
+                    <div class="modal-body">
+                        <h3 class="text-center mb-4">Mis cursos</h3>
+                        <div id="cursos-alum">
+                             <div id="contenedor-mc" class="d-flex flex-wrap gap-2">
+                            <a href="javascript:void(0)" class="btn btn-outline-primary">
+                                <i class="fas fa-book me-2"></i>Información
+                            </a>
+                            <a href="javascript:void(0)" class="btn btn-outline-primary">
+                                <i class="fas fa-download me-2"></i>Material del curso
+                            </a>
+                            <a href="javascript:void(0)" class="btn btn-outline-primary">
+                                <i class="fas fa-download me-2"></i>Ejercicios prácticos
+                            </a>
+                            <a href="javascript:void(0)" class="btn btn-outline-primary">
+                                <i class="fas fa-link me-2"></i>Link de la clase
+                            </a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
